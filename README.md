@@ -1,5 +1,5 @@
 #  E-Commerce Demand Forecasting (Multi-Modal AI)
-
+I used AI to reduce inventory risk by 16% !!!
 ##  Project Overview
 This project solves a critical problem in retail operations: **Inventory Management**.
 By predicting daily sales volume more accurately, businesses can reduce stockouts (lost revenue) and overstock (storage costs).
@@ -38,3 +38,12 @@ These streams merge into an **LSTM (Long Short-Term Memory)** network built with
 │   └── 05_LSTM_Model.ipynb   # PyTorch LSTM Model
 ├── src/                # Modular python scripts
 └── README.md
+
+💻 Technologies Used
+Deep Learning: PyTorch, LSTM
+
+NLP: Hugging Face Transformers (BERT)
+
+Time Series: Facebook Prophet
+
+Data Engineering: Pandas, Parquet
