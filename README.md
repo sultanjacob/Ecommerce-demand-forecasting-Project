@@ -47,3 +47,5 @@ NLP: Hugging Face Transformers (BERT)
 Time Series: Facebook Prophet
 
 Data Engineering: Pandas, Parquet
+
+Project Author: Jacob Abenga.
